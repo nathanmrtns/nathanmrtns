@@ -9,7 +9,6 @@
 
 My name is Nathan .
 
- - :pushpin: Currently working with ReactJs
- - :mag: Currently looking for Frontend and Fullstack job positions
+ - :pushpin: Currently working as Fullstack Engineer with Python (Django) and Javascript(ReactJs)
  - :notes: Addicted to music, tv shows and art in general
  - :space_invader: Gaming enthusiast
