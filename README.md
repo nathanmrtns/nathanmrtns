@@ -8,6 +8,6 @@
 
 My name is Nathan .
 
- - :pushpin: Currently working as Fullstack Engineer with Python (Django) and Javascript(ReactJs)
+ - :pushpin: I really like frontend but I'm constantly working on backend as well :P
  - :notes: Addicted to music, tv shows and art in general
  - :space_invader: Gaming enthusiast
